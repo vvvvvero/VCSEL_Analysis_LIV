@@ -1,4 +1,4 @@
-# VCSEL L-I-V Analysis
+# VCSEL Parameter extraction from LIV characterization
 
 A modular Python package for analyzing VCSEL (Vertical-Cavity Surface-Emitting Laser) L-I-V characteristics, extracting key device parameters, and generating high-quality visualizations.
 
